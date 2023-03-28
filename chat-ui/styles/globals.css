@@ -1,0 +1,28 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  height: 97vh;
+  background-color: rgb(5, 40, 61);
+  background-image: radial-gradient(at 93% 85%, rgb(5, 40, 61) 0px, transparent 50%), radial-gradient(at 0% 100%, rgb(23, 80, 115) 0px, transparent 50%), radial-gradient(at 87% 78%, rgb(33, 82, 110) 0px, transparent 50%), radial-gradient(at 0% 0%, rgb(29, 79, 109) 0px, transparent 50%);
+
+  
+}
+
+.Rectangle{ 
+  background: linear-gradient(276.07deg, rgba(255, 255, 255, 0.21) -226.08%, rgba(255, 255, 255, 0) 93.24%);
+}
+
+.Rec{
+  background: linear-gradient(276.07deg, rgba(255, 255, 255, 0.21) -226.08%, rgba(255, 255, 255, 0) 93.24%);
+}
+
+input{
+background: transparent;
+}
+
+.sidebtn{
+  background: linear-gradient(276.07deg, rgba(255, 255, 255, 0.21) -226.08%, rgba(255, 255, 255, 0) 93.24%);
+}
